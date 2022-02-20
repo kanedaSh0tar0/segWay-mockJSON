@@ -1,0 +1,22 @@
+{
+   "dataScooterE22":{
+      "features":{
+         "speed":20,
+         "range":22,
+         "battery":5100,
+         "weight":13.5,
+         "payload":"25 - 100",
+         "chargin":3.5,
+         "batteryNum":"1 встроенная",
+         "motor":"Номинальная 300",
+         "output":71,
+         "incline":15,
+         "absorption":"----",
+         "safety":"Задний LED-фонарь",
+         "light":"----"
+      },
+      "image":"./images/scooters/KS E22.svg",
+      "title":"NiNinebot Kickscooter E22",
+      "price":599.99
+   }
+}
