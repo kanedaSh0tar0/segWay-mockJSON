@@ -1,222 +1,224 @@
-[
-   {
-      "dataScooterE22":{
-         "features":{
-            "speed":20,
-            "range":22,
-            "battery":5100,
-            "weight":13.5,
-            "payload":"25 - 100",
-            "chargin":3.5,
-            "batteryNum":"1 встроенная",
-            "motor":"Номинальная 300",
-            "output":71,
-            "incline":15,
-            "absorption":"----",
-            "safety":"Задний LED-фонарь",
-            "light":"----"
-         },
-         "image":"./images/scooters/KS E22.svg",
-         "title":"NiNinebot Kickscooter E22",
-         "price":599.99
+{
+   "scooters":[
+      {
+         "dataScooterE22":{
+            "features":{
+               "speed":20,
+               "range":22,
+               "battery":5100,
+               "weight":13.5,
+               "payload":"25 - 100",
+               "chargin":3.5,
+               "batteryNum":"1 встроенная",
+               "motor":"Номинальная 300",
+               "output":71,
+               "incline":15,
+               "absorption":"----",
+               "safety":"Задний LED-фонарь",
+               "light":"----"
+            },
+            "image":"./images/scooters/KS E22.svg",
+            "title":"NiNinebot Kickscooter E22",
+            "price":599.99
+         }
+      },
+      {
+         "dataScooterES1L":{
+            "features":{
+               "speed":20,
+               "range":20,
+               "battery":1840,
+               "weight":10.3,
+               "payload":"25 - 100",
+               "chargin":6,
+               "batteryNum":"1 встроенная",
+               "motor":"Номинальная 300",
+               "output":42,
+               "incline":7,
+               "absorption":"Передняя",
+               "safety":"----",
+               "light":"----"
+            },
+            "image":"./images/scooters/KS ES1L.svg",
+            "title":"NiNinebot Kickscooter ES1l",
+            "price":389.99
+         }
+      },
+      {
+         "dataScooterAirT15":{
+            "features":{
+               "speed":20,
+               "range":12,
+               "battery":4000,
+               "weight":10.5,
+               "payload":"30 - 100",
+               "chargin":4,
+               "batteryNum":"1 встроенная",
+               "motor":"Номинальная 300",
+               "output":71,
+               "incline":15,
+               "absorption":"----",
+               "safety":"Задний LED-фонарь",
+               "light":"----"
+            },
+            "image":"./images/scooters/KS Air t15.svg",
+            "title":"NiNinebot Kickscooter Air T15",
+            "price":819.99
+         }
+      },
+      {
+         "dataScooterF30":{
+            "features":{
+               "speed":25,
+               "range":30,
+               "battery":7650,
+               "weight":15.1,
+               "payload":"30 - 120",
+               "chargin":5,
+               "batteryNum":"1 встроенная",
+               "motor":"Номинальная 300",
+               "output":71,
+               "incline":15,
+               "absorption":"----",
+               "safety":"Задний LED-фонарь",
+               "light":"----"
+            },
+            "image":"./images/scooters/KS F30.svg",
+            "title":"NiNinebot Kickscooter f30",
+            "price":649.99
+         }
+      },
+      {
+         "dataScooterE45":{
+            "features":{
+               "speed":30,
+               "range":45,
+               "battery":10200,
+               "weight":16.4,
+               "payload":"25 - 100",
+               "chargin":7.5,
+               "batteryNum":"1 встроенная",
+               "motor":"Номинальная 300",
+               "output":71,
+               "incline":20,
+               "absorption":"----",
+               "safety":"Задний LED-фонарь",
+               "light":"----"
+            },
+            "image":"./images/scooters/KS E45.svg",
+            "title":"NiNinebot Kickscooter e45",
+            "price":749.99
+         }
+      },
+      {
+         "dataScooterMax":{
+            "features":{
+               "speed":30,
+               "range":65,
+               "battery":11200,
+               "weight":18.7,
+               "payload":"30 - 100",
+               "chargin":6,
+               "batteryNum":"1 встроенная",
+               "motor":"Номинальная 350",
+               "output":121,
+               "incline":20,
+               "absorption":"----",
+               "safety":"Задний LED-фонарь",
+               "light":"----"
+            },
+            "image":"./images/scooters/KS MAX.svg",
+            "title":"NiNinebot Kickscooter MAX",
+            "price":999.99
+         }
+      },
+      {
+         "dataScooterMax2":{
+            "features":{
+               "speed":30,
+               "range":40,
+               "battery":11200,
+               "weight":17.5,
+               "payload":"30 - 100",
+               "chargin":6.5,
+               "batteryNum":"1 встроенная",
+               "motor":"Номинальная 350 W Максимальная 700",
+               "output":121,
+               "incline":15,
+               "absorption":"----",
+               "safety":"Задний LED-фонарь",
+               "light":"----"
+            },
+            "image":"./images/scooters/KS MAX2.svg",
+            "title":"NiNinebot Kickscooter MAX 2",
+            "price":1099.99
+         }
+      },
+      {
+         "dataScooterMax2":{
+            "features":{
+               "speed":25,
+               "range":25,
+               "battery":4000,
+               "weight":12.5,
+               "payload":"25 - 100",
+               "chargin":3.5,
+               "batteryNum":"1 встроенная",
+               "motor":"Номинальная 350 W Максимальная 700",
+               "output":71,
+               "incline":10,
+               "absorption":"----",
+               "safety":"Задний LED-фонарь",
+               "light":"----"
+            },
+            "image":"./images/scooters/KS ES2.svg",
+            "title":"NiNinebot Kickscooter es2",
+            "price":799.99
+         }
+      },
+      {
+         "dataScooterEs3":{
+            "features":{
+               "speed":25,
+               "range":45,
+               "battery":8000,
+               "weight":13.6,
+               "payload":"25 - 100",
+               "chargin":2,
+               "batteryNum":"1 встроенная",
+               "motor":"Номинальная 250 W Максимальная 600",
+               "output":71,
+               "incline":15,
+               "absorption":"----",
+               "safety":"Cветодиодная фара, боковые и задние отражатели",
+               "light":"----"
+            },
+            "image":"./images/scooters/KS ES3.svg",
+            "title":"NiNinebot Kickscooter es3",
+            "price":849.99
+         }
+      },
+      {
+         "dataScooterEs4":{
+            "features":{
+               "speed":30,
+               "range":45,
+               "battery":8000,
+               "weight":14,
+               "payload":"25 - 100",
+               "chargin":2,
+               "batteryNum":"1 встроенная",
+               "motor":"Номинальная 300 W Максимальная 800",
+               "output":71,
+               "incline":15,
+               "absorption":"----",
+               "safety":"Задний LED-фонарь",
+               "light":"----"
+            },
+            "image":"./images/scooters/KS ES4.svg",
+            "title":"NiNinebot Kickscooter es4",
+            "price":949.99
+         }
       }
-   },
-   {
-      "dataScooterES1L":{
-         "features":{
-            "speed":20,
-            "range":20,
-            "battery":1840,
-            "weight":10.3,
-            "payload":"25 - 100",
-            "chargin":6,
-            "batteryNum":"1 встроенная",
-            "motor":"Номинальная 300",
-            "output":42,
-            "incline":7,
-            "absorption":"Передняя",
-            "safety":"----",
-            "light":"----"
-         },
-         "image":"./images/scooters/KS ES1L.svg",
-         "title":"NiNinebot Kickscooter ES1l",
-         "price":389.99
-      }
-   },
-   {
-      "dataScooterAirT15":{
-         "features":{
-            "speed":20,
-            "range":12,
-            "battery":4000,
-            "weight":10.5,
-            "payload":"30 - 100",
-            "chargin":4,
-            "batteryNum":"1 встроенная",
-            "motor":"Номинальная 300",
-            "output":71,
-            "incline":15,
-            "absorption":"----",
-            "safety":"Задний LED-фонарь",
-            "light":"----"
-         },
-         "image":"./images/scooters/KS Air t15.svg",
-         "title":"NiNinebot Kickscooter Air T15",
-         "price":819.99
-      }
-   },
-   {
-      "dataScooterF30":{
-         "features":{
-            "speed":25,
-            "range":30,
-            "battery":7650,
-            "weight":15.1,
-            "payload":"30 - 120",
-            "chargin":5,
-            "batteryNum":"1 встроенная",
-            "motor":"Номинальная 300",
-            "output":71,
-            "incline":15,
-            "absorption":"----",
-            "safety":"Задний LED-фонарь",
-            "light":"----"
-         },
-         "image":"./images/scooters/KS F30.svg",
-         "title":"NiNinebot Kickscooter f30",
-         "price":649.99
-      }
-   },
-   {
-      "dataScooterE45":{
-         "features":{
-            "speed":30,
-            "range":45,
-            "battery":10200,
-            "weight":16.4,
-            "payload":"25 - 100",
-            "chargin":7.5,
-            "batteryNum":"1 встроенная",
-            "motor":"Номинальная 300",
-            "output":71,
-            "incline":20,
-            "absorption":"----",
-            "safety":"Задний LED-фонарь",
-            "light":"----"
-         },
-         "image":"./images/scooters/KS E45.svg",
-         "title":"NiNinebot Kickscooter e45",
-         "price":749.99
-      }
-   },
-   {
-      "dataScooterMax":{
-         "features":{
-            "speed":30,
-            "range":65,
-            "battery":11200,
-            "weight":18.7,
-            "payload":"30 - 100",
-            "chargin":6,
-            "batteryNum":"1 встроенная",
-            "motor":"Номинальная 350",
-            "output":121,
-            "incline":20,
-            "absorption":"----",
-            "safety":"Задний LED-фонарь",
-            "light":"----"
-         },
-         "image":"./images/scooters/KS MAX.svg",
-         "title":"NiNinebot Kickscooter MAX",
-         "price":999.99
-      }
-   },
-   {
-      "dataScooterMax2":{
-         "features":{
-            "speed":30,
-            "range":40,
-            "battery":11200,
-            "weight":17.5,
-            "payload":"30 - 100",
-            "chargin":6.5,
-            "batteryNum":"1 встроенная",
-            "motor":"Номинальная 350 W Максимальная 700",
-            "output":121,
-            "incline":15,
-            "absorption":"----",
-            "safety":"Задний LED-фонарь",
-            "light":"----"
-         },
-         "image":"./images/scooters/KS MAX2.svg",
-         "title":"NiNinebot Kickscooter MAX 2",
-         "price":1099.99
-      }
-   },
-   {
-      "dataScooterMax2":{
-         "features":{
-            "speed":25,
-            "range":25,
-            "battery":4000,
-            "weight":12.5,
-            "payload":"25 - 100",
-            "chargin":3.5,
-            "batteryNum":"1 встроенная",
-            "motor":"Номинальная 350 W Максимальная 700",
-            "output":71,
-            "incline":10,
-            "absorption":"----",
-            "safety":"Задний LED-фонарь",
-            "light":"----"
-         },
-         "image":"./images/scooters/KS ES2.svg",
-         "title":"NiNinebot Kickscooter es2",
-         "price":799.99
-      }
-   },
-   {
-      "dataScooterEs3":{
-         "features":{
-            "speed":25,
-            "range":45,
-            "battery":8000,
-            "weight":13.6,
-            "payload":"25 - 100",
-            "chargin":2,
-            "batteryNum":"1 встроенная",
-            "motor":"Номинальная 250 W Максимальная 600",
-            "output":71,
-            "incline":15,
-            "absorption":"----",
-            "safety":"Cветодиодная фара, боковые и задние отражатели",
-            "light":"----"
-         },
-         "image":"./images/scooters/KS ES3.svg",
-         "title":"NiNinebot Kickscooter es3",
-         "price":849.99
-      }
-   },
-   {
-      "dataScooterEs4":{
-         "features":{
-            "speed":30,
-            "range":45,
-            "battery":8000,
-            "weight":14,
-            "payload":"25 - 100",
-            "chargin":2,
-            "batteryNum":"1 встроенная",
-            "motor":"Номинальная 300 W Максимальная 800",
-            "output":71,
-            "incline":15,
-            "absorption":"----",
-            "safety":"Задний LED-фонарь",
-            "light":"----"
-         },
-         "image":"./images/scooters/KS ES4.svg",
-         "title":"NiNinebot Kickscooter es4",
-         "price":949.99
-      }
-   }
-]
+   ]
+}
